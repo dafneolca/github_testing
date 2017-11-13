@@ -12,7 +12,11 @@
 ```
 npm install
 npm run start-dev
+```
 
+# whats next?
+
+>DO NOT COMMIT TO ANYTHING
 ```
 This isn't working, I can't see the npm instrucitions.
 
