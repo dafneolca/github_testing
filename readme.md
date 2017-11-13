@@ -1,4 +1,4 @@
-# foo project
+# IH project
 
 > a project about nothing
 
@@ -7,7 +7,7 @@
 - a thing with a link [foobar] (http://www.x.com)
 
 
-## some instructions
+## wrong
 
 ```
 npm install
