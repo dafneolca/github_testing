@@ -8,3 +8,9 @@
 
 
 ## some instructions
+
+```
+npm install
+npm run start-dev
+
+```
