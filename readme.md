@@ -12,5 +12,8 @@
 ```
 npm install
 npm run start-dev
-
 ```
+
+# whats next?
+
+>DO NOT COMMIT TO ANYTHING
