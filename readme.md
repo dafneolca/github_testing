@@ -18,5 +18,6 @@ npm run start-dev
 
 >DO NOT COMMIT TO ANYTHING
 ```
+This isn't working, I can't see the npm instrucitions.
 
 // OK GUYZZZZ THIS IS THE NEW CHANGE ON DA FILE!!!!
